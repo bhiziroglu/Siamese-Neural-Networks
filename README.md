@@ -12,8 +12,7 @@ An implementation of the [Siamese Neural Networks](https://www.cs.cmu.edu/~rsala
 
 ## Instructions
 
-This project uses [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) which is a lightweight wrapper on PyTorch. It should be easy to understand what's going on in this project because it follows 
-the [LightningModule](https://github.com/PytorchLightning/pytorch-lightning#how-do-i-do-use-it) format. 
+This project uses [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) which is a lightweight wrapper on PyTorch. This project follows the [LightningModule](https://github.com/PytorchLightning/pytorch-lightning#how-do-i-do-use-it) format. 
 
 Simply running cpu_run.py or gpu_run.py downloads the MNIST dataset and starts training.
 
